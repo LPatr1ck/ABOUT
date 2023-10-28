@@ -4,7 +4,7 @@ I'm a passionate software developer with a deep love for coding and problem-solv
 
 ## About Me
 
-- 🌐 I'm from Craiova, and I'm currently a student.
+- 🌐 I'm from Craiova, and I'm currently a master's student specializing in Methods and Models in Artificial Intelligence.
 - 🌱 I'm always learning and exploring new technologies to stay on the cutting edge.
 - 🔍 I'm interested in web development, machine learning and open-source projects.
 
